@@ -25,6 +25,6 @@ Anyone can contribute to this application by downloading the source code.
 ## Tests
 In order to test this application, try the different criteria that appear, letting you choose various different combinations of passwords.
 ## Questions
-[GitHub Profile](https://github.com/OwaisIslam/)  
+[GitHub Profile](https://github.com/antenorib1/)  
 
-I can be reached at owaisislam@gmail.com.
+I can be reached at antenorib1@gmail.com.
